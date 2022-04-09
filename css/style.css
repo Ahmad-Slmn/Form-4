@@ -165,4 +165,8 @@ footer p:first-of-type span{
     .box{
         width: 98%
     }
+    
+    footer p{
+        font-size: 10px
+    }
 }
